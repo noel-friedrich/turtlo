@@ -1,5 +1,6 @@
 # turtlo
 > A chrome extension adding turtlo to websites!
+![Turtlo Extension Screenshot](https://github.com/noel-friedrich/turtlo/blob/main/assets/screenshots/primary-screenshot.png?raw=true)
 
 ## Table of contents
 * [About](#about)
@@ -27,7 +28,7 @@ The extension is currently being reviewed by the chrome web store. It will be av
 As soon as the extension is available in the chrome web store, you can install it from there. Until then, you can install it manually.
 
 ### Manual installation
-1. Download the latest release.
+1. Download the latest release on the [releases page](https://github.com/noel-friedrich/turtlo/releases/) (the file ending with `.zip`).
 2. Unzip the file.
 3. Open the extensions page in chrome (chrome://extensions).
 4. Enable developer mode.
