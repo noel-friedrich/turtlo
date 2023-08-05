@@ -5,9 +5,10 @@
 ## Table of contents
 * [About](#about)
 * [How to use](#how-to-use)
-* [Status](#status)
 * [Installation](#installation)
+  * [Chrome web store](#chrome-web-store)
   * [Manual installation](#manual-installation)
+* [Status](#status)
 
 ## About
 Turtlo is a cute animal that follows your cursor on any website you visit. Turtlo also sometimes does some stuff when he is bored - like walking around, spinning around and generally being very cute.
@@ -21,11 +22,15 @@ Turtlo single use is to make the web a happier place. With Turtlo, every boring 
 2. Go to a website.
 3. Watch Turtlo appear!
 
-## Status
-The extension is currently being reviewed by the chrome web store. It will be available soon!
-
 ## Installation
-As soon as the extension is available in the chrome web store, you can install it from there. Until then, you can install it manually.
+
+The extension is available on the [chrome web store](https://chrome.google.com/webstore/detail/turtlo/jdifijcompinjdlgfomdhdogaododkim/). You may install it from there or manually install a release by following the instructions below.
+
+### Chrome web store
+1. Go to the [chrome web store page](https://chrome.google.com/webstore/detail/turtlo/jdifijcompinjdlgfomdhdogaododkim/).
+2. Click on "Add to Chrome".
+3. Enjoy
+4. (Optional) Pin the extension to your toolbar for easy access.
 
 ### Manual installation
 1. Download the latest release on the [releases page](https://github.com/noel-friedrich/turtlo/releases/) (the file ending with `.zip`).
@@ -35,3 +40,7 @@ As soon as the extension is available in the chrome web store, you can install i
 5. Click on "Load unpacked extension".
 6. Select the folder you just unzipped.
 7. Enjoy
+
+
+## Status
+The project is currently in development.
